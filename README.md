@@ -18,3 +18,6 @@ The system was officially adopted into the **ECE198 curriculum** to provide stud
 - Embedded systems programming
 - PCB design and soldering
 - Mechanical design and prototyping
+
+![IMG_9735](https://github.com/user-attachments/assets/3b6e9a0a-2c0a-460b-a2b3-beaeda11a9bd)
+
